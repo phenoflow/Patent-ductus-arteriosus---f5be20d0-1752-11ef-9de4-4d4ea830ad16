@@ -1,0 +1,36 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/patent-ductus-arteriosus-revision---primary.py
+inputModule3:
+  class: File
+  path: python/patent-ductus-arteriosus-correction---primary.py
+inputModule4:
+  class: File
+  path: python/patent-ductus-arteriosus-occlusion---primary.py
+inputModule5:
+  class: File
+  path: python/patent-ductus-arteriosus-division---primary.py
+inputModule6:
+  class: File
+  path: python/patent-ductus-arteriosus-specified---primary.py
+inputModule7:
+  class: File
+  path: python/patent-ductus-arteriosus---primary.py
+inputModule8:
+  class: File
+  path: python/patent-ductus-arteriosus-closure---primary.py
+inputModule9:
+  class: File
+  path: python/patent---primary.py
+inputModule10:
+  class: File
+  path: python/patent-ductus-arteriosus-procedure---primary.py
+inputModule11:
+  class: File
+  path: python/transluminal-patent-ductus-arteriosus---primary.py
+inputModule12:
+  class: File
+  path: python/output-cases.py
